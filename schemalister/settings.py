@@ -1,5 +1,5 @@
 import os
-from urllib.parse import urlparse
+import urlparse
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))
